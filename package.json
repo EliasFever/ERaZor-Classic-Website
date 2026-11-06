@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@astrojs/cloudflare": "^14.4.6",
+    "@astrojs/markdown-remark": "^7.3.6",
     "@astrojs/svelte": "^9.1.2",
     "@chenglou/pretext": "^1.0.0",
     "@iconify-json/fa7-brands": "^1.2.4",
@@ -19,10 +20,12 @@
     "astro": "^7.4.7",
     "astro-icon": "^1.2.0",
     "eruda": "^3.4.3",
+    "esbuild": "^0.28.2",
     "node-emoji": "^2.2.0",
     "sass": "^1.108.0",
     "twemoji": "^14.0.2",
-    "web-haptics": "^0.0.6"
+    "web-haptics": "^0.0.6",
+    "workerd": "^1.20261106.1"
   },
   "devDependencies": {
     "typescript": "^7.0.2",
