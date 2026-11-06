@@ -10,13 +10,13 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^12.6.13",
-    "@astrojs/svelte": "^7.2.5",
-    "@chenglou/pretext": "^0.0.4",
+    "@astrojs/cloudflare": "^14.4.6",
+    "@astrojs/svelte": "^9.1.2",
+    "@chenglou/pretext": "^1.0.0",
     "@iconify-json/fa7-brands": "^1.2.4",
     "@iconify-json/material-symbols": "^1.2.97",
     "@iconify/svelte": "^5.2.4",
-    "astro": "^5.18.2",
+    "astro": "^7.4.7",
     "astro-icon": "^1.2.0",
     "eruda": "^3.4.3",
     "node-emoji": "^2.2.0",
@@ -25,7 +25,7 @@
     "web-haptics": "^0.0.6"
   },
   "devDependencies": {
-    "typescript": "^5.9.3",
+    "typescript": "^7.0.2",
     "unist-util-visit": "^5.2.0"
   },
   "allowScripts": {
