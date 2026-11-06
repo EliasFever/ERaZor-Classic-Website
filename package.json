@@ -10,22 +10,22 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^12.6.12",
+    "@astrojs/cloudflare": "^12.6.13",
     "@astrojs/svelte": "^7.2.5",
     "@chenglou/pretext": "^0.0.4",
-    "@iconify-json/fa7-brands": "^1.2.1",
-    "@iconify-json/material-symbols": "^1.2.53",
-    "@iconify/svelte": "^5.2.1",
-    "astro": "^5.16.15",
-    "astro-icon": "^1.1.5",
+    "@iconify-json/fa7-brands": "^1.2.4",
+    "@iconify-json/material-symbols": "^1.2.97",
+    "@iconify/svelte": "^5.2.4",
+    "astro": "^5.18.2",
+    "astro-icon": "^1.2.0",
     "eruda": "^3.4.3",
     "node-emoji": "^2.2.0",
-    "sass": "^1.97.3",
+    "sass": "^1.108.0",
     "twemoji": "^14.0.2",
     "web-haptics": "^0.0.6"
   },
   "devDependencies": {
-    "typescript": "^5.5.4",
-    "unist-util-visit": "^5.1.0"
+    "typescript": "^5.9.3",
+    "unist-util-visit": "^5.2.0"
   }
 }
